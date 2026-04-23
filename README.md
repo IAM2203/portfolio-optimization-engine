@@ -30,5 +30,7 @@ QuantPort is a quantitative finance tool built with Python that enables users to
 ## Project Structure
 
 ├── app.py                # Main Streamlit interface and UI logic
+
 ├── finanzas.py           # Financial engine (Lagrange & Optimization logic)
+
 └── README.md             # Project documentation
